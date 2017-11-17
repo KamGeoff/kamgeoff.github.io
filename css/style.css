@@ -324,3 +324,7 @@ h1{
 .fa-star{
 	color:#25B4F0
 }
+.glass{
+	background:rgba(34,34,34,0.6);
+	color:#fff;
+}
