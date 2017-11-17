@@ -46,6 +46,15 @@ h1{
 	.carousel-item img{
 		max-height:8rem;
 	}
+	.header{
+		text-align:center;
+	}
+	.about-velas{
+		background:none;
+	}
+	.awards-small{
+		font-size:14px;
+	}
 }
 @media(min-width:576px) and (max-width:767px){
 	.backimg{
@@ -68,6 +77,12 @@ h1{
 	}
 	.heading:hover{
 		color:#fff;
+	}
+	.header{
+		text-align:center;
+	}
+	.about-velas{
+		background:#7CE0BF;
 	}
 }
 @media(min-width:768px) and (max-width:991px){
@@ -125,7 +140,12 @@ h1{
 	.heading:hover{
 		color:#fff;
 	}
-	
+	.header{
+		text-align:center;
+	}
+	.about-velas{
+		background:#7CE0BF;
+	}
 }
 @media(min-width:992px) and (max-width:1199px){
 	.backimg{
@@ -148,6 +168,12 @@ h1{
 	}
 	.heading:hover{
 		color:#fff;
+	}
+	.header{
+		text-align:center;
+	}
+	.about-velas{
+		background:#7CE0BF;
 	}
 }
 @media(min-width:1200px){
@@ -174,6 +200,12 @@ h1{
 	}
 	.heading:hover{
 		color:#fff;
+	}
+	.header{
+		text-align:center;
+	}
+	.about-velas{
+		background:#7CE0BF;
 	}
 }
 	
@@ -270,4 +302,25 @@ h1{
 }
 .social ul li{
 	padding:0.5rem;
+}
+.header{
+	text-align:center;
+}
+.spacee{
+	margin-top:60px;
+}
+.spacee1{
+	margin-top:90px;
+}
+.collaborators{
+	background:#3c3e4a;
+	color:#fff;
+	text-align:center;
+	top:-40px;
+}
+.underline{
+	border-bottom:1px solid #ccc;
+}
+.fa-star{
+	color:#25B4F0
 }
