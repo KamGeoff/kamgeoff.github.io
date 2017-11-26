@@ -10,7 +10,7 @@ h1{
 }
 @media(max-width:575px){
 	.backimg{
-		background-image:url(../images/12.jpg);
+		background-image:url(../images/aircraft.jpeg);
 		background-repeat:repeat-x;
 		background-attachment:fixed;
 		background-position:center center;
@@ -21,7 +21,7 @@ h1{
 		margin-bottom:2rem;
 	}
 	.backimgs{
-		background-image:url(../images/another1.jpg);
+		background-image:url(../images/aircraft.jpeg);
 		background-repeat:repeat-x;
 		background-attachment:fixed;
 		background-position:center center;
@@ -120,7 +120,7 @@ h1{
 		margin-bottom:2rem;
 	}
 	.backimgs{
-		background-image:url(../images/12.jpg);
+		background-image:url(../images/aircraft.jpeg);
 		background-repeat:repeat-x;
 		background-attachment:fixed;
 		background-position:center center;
@@ -182,7 +182,7 @@ h1{
 }
 @media(min-width:992px) and (max-width:1199px){
 	.backimg{
-		background-image:url(../images/aircraft.jpeg);;
+		background-image:url(../images/aircraft.jpeg);
 		background-repeat:repeat-x;
 		background-attachment:fixed;
 		background-position:top center center;
@@ -233,7 +233,7 @@ h1{
 		margin-bottom:2rem;
 	}
 	.backimgs{
-		background-image:url(../images/12.jpg);
+		background-image:url(../images/aircraft.jpeg);
 		background-repeat:repeat-x;
 		background-attachment:fixed;
 		background-position:center center;
