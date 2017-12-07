@@ -20,13 +20,13 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="index.html" class="navbar-brand"><img style="height:26px; widith:26px;"src="image/logoo.png"></a>
+					<a href="index.php" class="navbar-brand"><img style="height:26px; widith:26px;"src="image/logoo.png"></a>
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.html"><i class="fa fa-home" aria-hidden="true"> Home</i></a></li>
-						<li><a href="about.html"><i class="fa fa-user" aria-hidden="true"> About Us</i></a></li>
-						<li><a href="contacts.html"><i class="fa fa-map-marker" aria-hidden="true"> Contact Us</i></a></li>
+						<li><a href="index.php"><i class="fa fa-home" aria-hidden="true"> Home</i></a></li>
+						<li><a href="about.php"><i class="fa fa-user" aria-hidden="true"> About Us</i></a></li>
+						<li><a href="contacts.php"><i class="fa fa-map-marker" aria-hidden="true"> Contact Us</i></a></li>
 					</ul>
 				</div>
 			</div>
@@ -121,7 +121,7 @@
 					</div>
 					<div class="col-lg-4">
 						<h4>About</h4>
-						<p><a href="about.html"><i class="fa fa-square-o" aria-hidden="true"> About Us</i></a></p>
+						<p><a href="about.php"><i class="fa fa-square-o" aria-hidden="true"> About Us</i></a></p>
 						<p><i class="fa fa-square-o" aria-hidden="true"> Privacy</i></p>
 						<p><i class="fa fa-square-o" aria-hidden="true"> Terms & Conditions</i></p>
 					</div>
